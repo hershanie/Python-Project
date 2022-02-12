@@ -1,2 +1,6 @@
 git checkout -b dammy-branch
 git checkout -b victors-branch
+
+ git config --global user.name "hershanie"
+ git config --global user.email hershanie@gmail.com
+
